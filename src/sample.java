@@ -3,5 +3,11 @@ public static void main(String [] args) {
 
     System.out.println("I am testing a branching method.");
 
-    System.out.println("This is a commit from the master branch.");
+<<<<<<< HEAD
+=======
+    System.out.println("This is another test.");
+
+    System.out.println("Adding more code.");
+    
+>>>>>>> mybranch
 }

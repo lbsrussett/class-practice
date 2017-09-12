@@ -6,6 +6,10 @@ public static void main(String [] args) {
     System.out.println("This is another test.");
 
     System.out.println("Adding more code.");
+
+    public void myMethod() {
+    	System.out.println("Calling myMethod.");
+    }
     
     pubilc void dummy() {
     	System.out.println("Conflict method");

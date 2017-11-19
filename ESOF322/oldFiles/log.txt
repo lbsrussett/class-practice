@@ -1,0 +1,565 @@
+commit 395de4c18b1854e30c7a13f4e51e067dbfbed52c
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Tue Nov 14 18:07:16 2017 -0700
+
+    fixed issues with javafx
+
+commit e42ed57d55b99513a9c81200fd000c3756efe162
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Tue Nov 14 17:57:21 2017 -0700
+
+    Revert "added test methods, corrected spelling in property.java"
+    
+    This reverts commit 3fd10f251bd87247979584a7058a972453a092fa.
+
+commit 3370274acef705674527723a00a0b4a0a6da7503
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Tue Nov 14 17:54:42 2017 -0700
+
+    Revert "changed package declaration trying to get tests to work"
+    
+    This reverts commit c5814c50ef14c801b2b9b01c5b352b05dd867eb9.
+
+commit c5814c50ef14c801b2b9b01c5b352b05dd867eb9
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Tue Nov 14 17:42:22 2017 -0700
+
+    changed package declaration trying to get tests to work
+
+commit 3fd10f251bd87247979584a7058a972453a092fa
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Tue Nov 14 16:55:07 2017 -0700
+
+    added test methods, corrected spelling in property.java
+
+commit 8d0e8dfa3be300a7e343bc9e8c8bb6d5464fb7ca
+Author: Carie Pointer <cariepointer@yahoo.com>
+Date:   Tue Nov 14 15:59:42 2017 -0700
+
+    Remove repeated print statement for ownedProperties
+
+commit f1988db436e19b16db8e6ab5fdb44d6e40c60a20
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Tue Nov 14 14:36:04 2017 -0700
+
+    Create oldFiles2
+
+commit 5cf27435abfdc58df3067806aa7b74de7d664d80
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Tue Nov 14 14:34:46 2017 -0700
+
+    restructured files and added new working monopoly files
+
+commit d9bc031b331fbca365ad219d2695c1813380ded9
+Merge: 5be84b2 2cc2f28
+Author: Carie Pointer <cariepointer@yahoo.com>
+Date:   Tue Nov 14 13:52:17 2017 -0700
+
+    Resolve merge conflicts
+
+commit 5be84b241802a69ef33a07183628f2b568b783fb
+Merge: f2eca9f 114b4ee
+Author: Carie Pointer <cariepointer@yahoo.com>
+Date:   Tue Nov 14 13:42:02 2017 -0700
+
+    Merge remote-tracking branch 'refs/remotes/origin/master'
+
+commit 2cc2f28f7a9c4ad891639126163129561f4fc86e
+Author: Ethan Malo <ChampionPi@users.noreply.github.com>
+Date:   Mon Nov 13 01:12:46 2017 -0700
+
+    fixed arithmatic error in house price return for selling houses
+
+commit 9901b6be26f1bbce2bd82091d495dcdec99db7c3
+Author: Ethan Malo <ChampionPi@users.noreply.github.com>
+Date:   Mon Nov 13 01:05:00 2017 -0700
+
+    Fixed calculateWinner method to display player name instead of the player object
+
+commit 720fc5507f3d59ae11820883d7ae5982263de57a
+Author: Ethan Malo <ChampionPi@users.noreply.github.com>
+Date:   Mon Nov 13 00:18:48 2017 -0700
+
+    fixed print properties method
+
+commit a7b5a18d05a4c5fd35ac8a67028e513bec6a3d67
+Author: Carie Pointer <cariepointer@yahoo.com>
+Date:   Sun Nov 12 23:49:39 2017 -0700
+
+    Add helper methods to Railroad, Utility, and Tile classes
+
+commit 41d09db428476579c71bbe790aaf97561aa74b53
+Author: Carie Pointer <cariepointer@yahoo.com>
+Date:   Sun Nov 12 23:51:57 2017 -0700
+
+    Change ownedProperties type to Tile; add functions to purchase Utility and Railroad tiles
+
+commit f2eca9f646dbf1f73c75737915df218adc7f335e
+Author: Carie Pointer <cariepointer@yahoo.com>
+Date:   Sun Nov 12 23:51:57 2017 -0700
+
+    Change ownedProperties type to Tile; add functions to purchase Utility and Railroad tiles
+
+commit c0a49b724701c2e37a3fe88b43db700e72ad3922
+Author: Carie Pointer <cariepointer@yahoo.com>
+Date:   Sun Nov 12 23:49:39 2017 -0700
+
+    Add helper methods to Railroad, Utility, and Tile classes
+
+commit e0817937ec41702c7fb02e0dead3fb56b715ed31
+Author: Ethan Malo <ChampionPi@users.noreply.github.com>
+Date:   Sun Nov 12 21:47:26 2017 -0700
+
+    Added Utility class and updated tile creation to create either a property, a railroad, or a utility
+
+commit 2bc5caf12c103a61e8c97cf22410922f20b18567
+Author: Ethan Malo <ChampionPi@users.noreply.github.com>
+Date:   Sun Nov 12 21:39:40 2017 -0700
+
+    Added more property type indicators to monopoly text file.  Added in base Railroad class.
+
+commit ba7b19bc2d4bf0cea204dd8fcbe0a41eefb1f754
+Author: Ethan Malo <ChampionPi@users.noreply.github.com>
+Date:   Sun Nov 12 20:54:54 2017 -0700
+
+    Modified rent to an int array, to store numerous rent values per tile as well as needed changes to related methods.  Also updated the tiles file to store the rent values initially.
+
+commit 01606f34fe088c250ac172c1b51e02a7f92170e3
+Author: Carie Pointer <cariepointer@yahoo.com>
+Date:   Sun Nov 12 20:04:55 2017 -0700
+
+    Update buyProperty and buyHouse methods
+
+commit 114b4ee42674f3b1174d57588b334e4e998ac046
+Author: wizmariefa <mariecolee1@gmail.com>
+Date:   Sun Nov 12 19:57:25 2017 -0700
+
+    This is the JavaFX XML I've made. We need to connect methods to buttons and integrate.
+
+commit 8ed83133519e8ddd9efeefbc24b0082093519ad4
+Author: Carie Pointer <cariepointer@yahoo.com>
+Date:   Sun Nov 12 18:56:38 2017 -0700
+
+    Move board init method to Player class
+
+commit e21d84b9a17e224a28072e1cf0a750eac314a07e
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Sun Nov 12 19:59:43 2017 -0500
+
+    updated overview.txt
+
+commit 873ce0ef34da27bafed43a85df21cf7688330d28
+Author: Carie Pointer <cariepointer@yahoo.com>
+Date:   Sun Nov 12 17:58:13 2017 -0700
+
+    Import tiles for game board
+
+commit f773cd809b6432d3a502a90184daabd9441f2db4
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Sun Nov 12 17:33:31 2017 -0500
+
+    updated class diagram
+
+commit 73a650bc565d58f8bafb6aa81ae7ec215f7533f6
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Sun Nov 12 09:42:03 2017 -0500
+
+    added more testing methods
+
+commit 4c2590a582140f55470b4b19b81a5d96bc4f9666
+Author: Ethan Malo <ChampionPi@users.noreply.github.com>
+Date:   Sat Nov 11 01:37:58 2017 -0700
+
+    Added more function to deturmining winners at end of game.  Still results in error until proper worth compartisons can be added.  More comments in Player Class
+
+commit bb43043cb043a7bec3c510621a33c3fc1866014b
+Author: Ethan Malo <ChampionPi@users.noreply.github.com>
+Date:   Fri Nov 10 23:59:01 2017 -0700
+
+    Added comments to player class
+
+commit ebae78e72fab2b5b069988b1f3f93495c21595c5
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Thu Nov 9 19:27:30 2017 -0700
+
+    added testing functions
+
+commit b25c716e5dab0b95aa07aca074c7e0ab9071b013
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Thu Nov 9 19:24:50 2017 -0700
+
+    fixed monopolyTest.txt
+
+commit 76b7e3dbad09ccff4f67f10c38da06c434586380
+Merge: 7d34e98 b65c949
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Thu Nov 9 19:22:25 2017 -0700
+
+    Merge branch 'master' of https://github.com/RituparnaHalder/Team1
+
+commit 7d34e98fb08c42902e823c43df54c0887a3c576e
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Thu Nov 9 19:22:07 2017 -0700
+
+    updated monopoloyTest.txt
+
+commit b65c949a8a76d4daafa2f85ecc6579d7e09ab009
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Thu Nov 9 19:21:01 2017 -0700
+
+    Rename monopoloyTest.txt to monopolyTest.txt
+
+commit 881647ba2941affaa160796052b253000497ca3f
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Thu Nov 9 19:20:26 2017 -0700
+
+    added some testing functions
+
+commit f10a94eb58b86073f737f8698b1b112126c7756f
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Thu Nov 9 19:01:46 2017 -0700
+
+    added test names and started test methods
+
+commit 2368d3655e410f609476b55c2b24076fe82db9d9
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Thu Nov 9 17:01:16 2017 -0700
+
+    added more test cases
+
+commit d32a6bfb3528eb6b6d1c9c7e8cf763d842522ca7
+Author: Ethan Malo <ChampionPi@users.noreply.github.com>
+Date:   Thu Nov 9 15:25:24 2017 -0700
+
+    Added timer and base structure for deturmining winner at game end to main.  Added more functionallity to Player, including the menu for turn options.  Added method skeletons to Property so Player compiles properly.
+
+commit 57f1302b728c0a0974eca79dff62164f672a6c23
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Thu Nov 9 12:13:18 2017 -0700
+
+    delete extra monopoly files
+
+commit 7aca8b3a2a7126ddf4cb572170abb77b5cb10bcd
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Thu Nov 9 12:12:58 2017 -0700
+
+    delete extra monopoly files
+
+commit 7088b53b40134fd9844e157a9a99c80d828541c9
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Thu Nov 9 12:12:43 2017 -0700
+
+    delete extra monopoly files
+
+commit 7f4a384dc46fe843ca9652c19a5f8d1c67ce5b68
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Thu Nov 9 12:12:34 2017 -0700
+
+    delete extra monopoly files
+
+commit fec25b008fbc2af9befa813db6b16a244255fa1c
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Thu Nov 9 12:10:50 2017 -0700
+
+    created Monopoly folder and moved files in
+
+commit dbef8f633c3609eb25e5f85965a1aa6c17ed5e97
+Author: Ethan Malo <ChampionPi@users.noreply.github.com>
+Date:   Thu Nov 9 01:39:16 2017 -0700
+
+    Adding Driver, Dice, Player, Tile, and Property Classes.  Current functionality includes rolling dice and deturmining doubles, asking for number of players then creating a game, as well as a foundation for a player's turn.
+
+commit c134cc0114db9b746453d412f547b8a9268ac95a
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Wed Nov 8 18:54:15 2017 -0700
+
+    updated sequence diagram
+
+commit b86968c58575fb06a14536396c093dd8090468f8
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Tue Nov 7 17:24:39 2017 -0700
+
+    Added overviewPA3.txt and initial sequence diagrams
+
+commit 3b5e4b6c6106aae392ba5186833c0a3e60f69106
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Mon Nov 6 10:45:21 2017 -0700
+
+    add updated UML class diagram
+
+commit 567a31d22a082cba64a0068dd90f436f92b5fc95
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Mon Nov 6 10:43:05 2017 -0700
+
+    added list of test cases
+
+commit d1b2558e1daa207f24db9289fe8f2dc41fa1640b
+Merge: b72b0df c729372
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Sun Nov 5 11:20:06 2017 -0700
+
+    Merge branch 'master' of https://github.com/RituparnaHalder/Team1
+
+commit b72b0dfa74a77903e4784956ba5185555f4eb3b9
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Sun Nov 5 11:19:55 2017 -0700
+
+    Created Monopoly class and test class
+
+commit c729372dfb75bb5f56cb95af32e6ede79d64052a
+Author: wizmariefa <mariecolee1@gmail.com>
+Date:   Wed Nov 1 10:27:43 2017 -0600
+
+    Okay, this is actually including the empty file.
+
+commit 028390d7bfd9c7d6ef21201826e5e63874e1647c
+Author: wizmariefa <mariecolee1@gmail.com>
+Date:   Wed Nov 1 10:26:11 2017 -0600
+
+    This is just adding an empty file for the GUI.
+
+commit 405499adf5a9a2d25cbeec40db9677f94e0c8b7c
+Author: Ethan Malo <ChampionPi@users.noreply.github.com>
+Date:   Tue Oct 3 22:09:08 2017 -0600
+
+    Added a statement about Carie's time spend on the project, final commit
+
+commit dff9de93390c5841d75b051a846529ea96c89c33
+Author: Ethan Malo <ChampionPi@users.noreply.github.com>
+Date:   Tue Oct 3 22:06:25 2017 -0600
+
+    Added final comments for design choices and Ethan's section of the work done stuff in the overview textf
+
+commit 7a0cbd4e934510659a916cad17c4fe32b3993b48
+Author: Ethan Malo <ChampionPi@users.noreply.github.com>
+Date:   Tue Oct 3 21:59:12 2017 -0600
+
+    Added additional tests with comments to testDot(), testMagnitude(), and testNegate()
+
+commit 566af4f5f871f69876b930ad2c97f6fb925aac61
+Author: Ethan Malo <ChampionPi@users.noreply.github.com>
+Date:   Tue Oct 3 21:24:00 2017 -0600
+
+    Added comments to the methods in Vector3D, as well as comments and new tests in testScale() and testAdd()
+
+commit 3648076a06609a2d540bb2e93cd538ee333bf286
+Merge: 30c5b46 224bfa7
+Author: Ethan Malo <ChampionPi@users.noreply.github.com>
+Date:   Tue Oct 3 21:07:37 2017 -0600
+
+    Merge branch 'master' of https://github.com/MSU-ESOF322/Team1
+
+commit 30c5b461474675259b9cc05f099bca2d2b9def16
+Author: Ethan Malo <ChampionPi@users.noreply.github.com>
+Date:   Tue Oct 3 21:01:18 2017 -0600
+
+    added rounding function to Vector3D class and Integrated it into the add() and subtract() methods to fix errors created with floating point decimals creating small margins of error for the tests
+
+commit 224bfa7c9c33424aa99806be74ddd10886c156e1
+Author: wizmariefa <mariecolee1@gmail.com>
+Date:   Tue Oct 3 22:41:15 2017 -0400
+
+    Added Marie's portion of overview document
+
+commit 9e7587722c11d1040ac67a654683e2211774e1f5
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Tue Oct 3 22:30:49 2017 -0400
+
+    fixed package declarations
+
+commit ea48857a925ee96955c39fd99180115e7c212094
+Merge: ff59f37 a2caefb
+Author: Carie Pointer <cariepointer@yahoo.com>
+Date:   Tue Oct 3 22:18:20 2017 -0400
+
+    Merge branch 'master' of https://github.com/MSU-ESOF322/Team1
+
+commit ff59f3718818cf69b08e70968cef8f5b332eacbe
+Author: Carie Pointer <cariepointer@yahoo.com>
+Date:   Tue Oct 3 22:15:13 2017 -0400
+
+    Add contributions to overview.txt
+
+commit a2caefbec73742f508bca0efbe1ab6d3e1ec71bd
+Author: Marie Morin <mariecolee1@gmail.com>
+Date:   Tue Oct 3 22:07:57 2017 -0400
+
+    Uploaded unexpectedly after issues
+
+commit 07b95d361e8c67a2cb80314fe32961c48f813f19
+Merge: d6ee527 e2ab3bb
+Author: Carie Pointer <cariepointer@yahoo.com>
+Date:   Tue Oct 3 22:06:04 2017 -0400
+
+    Merge branch 'master' of https://github.com/MSU-ESOF322/Team1
+
+commit d6ee5274a976081fd3b39067033ff95737cd18cc
+Author: Carie Pointer <cariepointer@yahoo.com>
+Date:   Tue Oct 3 22:05:45 2017 -0400
+
+    Add DELTA threshold to testMagnitude() and testDot() methods
+
+commit e2ab3bb0bf253f15b1fc08385b92b5efcffffada
+Author: Marie Morin <mariecolee1@gmail.com>
+Date:   Tue Oct 3 21:42:43 2017 -0400
+
+    Uploaded unexpectedly after issues
+
+commit b314a35a55ff569df21d82082eabc339d6325c71
+Author: Marie Morin <mariecolee1@gmail.com>
+Date:   Tue Oct 3 21:42:29 2017 -0400
+
+    Uploaded unexpectedly after issues
+
+commit e5b6f227e986c3c225834bcae34d2caeb1f67016
+Author: Marie Morin <mariecolee1@gmail.com>
+Date:   Tue Oct 3 21:42:19 2017 -0400
+
+    Uploaded unexpectedly after issues
+
+commit 6ff88887fe79b12bf90bdb5712921ba2398e7921
+Author: Marie Morin <mariecolee1@gmail.com>
+Date:   Tue Oct 3 21:42:07 2017 -0400
+
+    Uploaded unexpectedly after issues
+
+commit 9c22fe1c6b11953e1fb96e17d7fcbde4cb026482
+Author: Marie Morin <mariecolee1@gmail.com>
+Date:   Tue Oct 3 21:41:47 2017 -0400
+
+    Uploaded unexpectedly after issues
+
+commit 07cbbe6bc5084346f61732a39a1019f3d727b104
+Merge: b5f6e30 2e52e79
+Author: wizmariefa <mariecolee1@gmail.com>
+Date:   Tue Oct 3 21:32:52 2017 -0400
+
+    Fixed methods and syntax in Vector3DTest as well as Vector3D
+    Merge branch 'master' of https://github.com/MSU-ESOF322/Team1
+
+commit b5f6e308fd973e55b6d08099cee481ce38d7b2b8
+Author: wizmariefa <mariecolee1@gmail.com>
+Date:   Tue Oct 3 21:25:30 2017 -0400
+
+    Updated methods and syntax in both Vector3DTest and Vector3D
+
+commit 2e52e79be5e16b6c93eb7a738d96993b8b380be1
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Tue Oct 3 21:22:46 2017 -0400
+
+    made slight change to correct equals() method
+
+commit 161585dfecbeada35a7885f43e26e87400f6246c
+Author: wizmariefa <mariecolee1@gmail.com>
+Date:   Tue Oct 3 20:56:17 2017 -0400
+
+    Added metadata file.
+
+commit a4192124ce7f509fbeca2d9bcf2563ec73f2fcd7
+Author: Ethan Malo <ChampionPi@users.noreply.github.com>
+Date:   Tue Oct 3 17:26:40 2017 -0600
+
+    Updated Vector3D and Vector3DTest with Negate and Dot functions as well as some tests for them
+
+commit 1ac56fa039c921ee01ddb879140a6b1410a242c7
+Author: Carie Pointer <cariepointer@yahoo.com>
+Date:   Tue Oct 3 16:40:24 2017 -0400
+
+    Update add() and subtract() methods
+
+commit 80c6457768769796c58e3ab0e027a46e8d783cc6
+Author: Ethan Malo <ChampionPi@users.noreply.github.com>
+Date:   Tue Oct 3 01:11:39 2017 -0600
+
+    Added generic ignore files to .gitignore from https://gist.github.com/octocat/9257657
+
+commit a0efb8560619443d847b216e6d58df0204e11502
+Author: Ethan Malo <ChampionPi@users.noreply.github.com>
+Date:   Tue Oct 3 01:08:52 2017 -0600
+
+    Added functionallity to testMagnitude function in Vector3D Test as well as a .gitignore file to ignore certain untracked files eventually
+
+commit 95a48d4be2fb75c4a4cfe9d14b532844f19ca1fd
+Author: Ethan Malo <ChampionPi@users.noreply.github.com>
+Date:   Tue Oct 3 00:22:58 2017 -0600
+
+    Added Magnitude functoin to Vector3D class
+
+commit 2c2aae703a3e7a85138ca07c9eab5c1b13df6d5c
+Merge: 29c0856 22289bf
+Author: Carie Pointer <cariepointer@yahoo.com>
+Date:   Mon Oct 2 13:39:57 2017 -0600
+
+    Merge branch 'master' of https://github.com/MSU-ESOF322/Team1
+
+commit 29c0856dffc3e32f89ddb685f6d1a5528b6c91df
+Author: Carie Pointer <cariepointer@yahoo.com>
+Date:   Mon Oct 2 13:39:30 2017 -0600
+
+    Create initial add() method and testAdd() method
+
+commit 22289bfc8038efb49409fac96846dd18424dd3b9
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Mon Oct 2 13:32:59 2017 -0600
+
+    added design choice to overview.txt
+
+commit 74c0c33d6cabe47e1a0a1f0c3be4f0ce9d98c925
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Mon Oct 2 13:17:27 2017 -0600
+
+     updated Vector3DTest to correct setup error
+
+commit 8c4e7193d6aac5b8c9856014d5b2d4d32477e140
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Wed Sep 27 12:56:38 2017 -0600
+
+    updated Vector3DTest.java
+
+commit 75c19dddc4f3f0da2222e4f7e5eba94911dc8964
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Wed Sep 27 10:42:37 2017 -0600
+
+    updated java files with completed toString and equals methods
+
+commit f52f4fc23653784dffe8ddd5f070fbc0beace427
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Wed Sep 27 10:39:42 2017 -0600
+
+    updated overview.txt
+
+commit 590848499e97c82cb519ea6c46592e07cfb33df1
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Wed Sep 27 10:00:04 2017 -0600
+
+    new Vector3D.java and Vector3DTest.java with completed toString test and method
+
+commit 9adc1b78d574f29c764623a93b6019f374a9ad3d
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Tue Sep 26 13:03:24 2017 -0600
+
+    updated overview.txt
+
+commit 2fa3a0aaebde3060453abbcfee7c893e29abb2d8
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Tue Sep 26 12:54:15 2017 -0600
+
+    created overview.txt
+
+commit 785ea1cf8d5685295ca85bf5fa1c886b398cfd02
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Wed Sep 20 16:50:30 2017 -0600
+
+    "created test directory and Vector3DTest.java"
+
+commit 957ab1b95ae75ce599e2c4dd16fefd48c49f977b
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Wed Sep 20 16:47:25 2017 -0600
+
+    created src directory and Vector3D.java
+
+commit f7974c1737e34e366fce8aeefbd890fa8e7b806b
+Author: lbsrussett <lbsrussett@gmail.com>
+Date:   Sun Sep 17 10:17:53 2017 -0600
+
+    commit readme

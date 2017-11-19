@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.shape.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<GridPane fx:id="Atlantic" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="1010.0" prefWidth="1010.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8">
+  <columnConstraints>
+      <ColumnConstraints hgrow="SOMETIMES" minWidth="100.0" prefWidth="100.0" />
+      <ColumnConstraints hgrow="SOMETIMES" minWidth="90.0" prefWidth="90.0" />
+      <ColumnConstraints hgrow="SOMETIMES" minWidth="90.0" prefWidth="90.0" />
+      <ColumnConstraints hgrow="SOMETIMES" minWidth="90.0" prefWidth="90.0" />
+      <ColumnConstraints hgrow="SOMETIMES" minWidth="90.0" prefWidth="90.0" />
+      <ColumnConstraints hgrow="SOMETIMES" minWidth="90.0" prefWidth="90.0" />
+      <ColumnConstraints hgrow="SOMETIMES" minWidth="90.0" prefWidth="90.0" />
+      <ColumnConstraints hgrow="SOMETIMES" minWidth="90.0" prefWidth="90.0" />
+      <ColumnConstraints hgrow="SOMETIMES" minWidth="90.0" prefWidth="90.0" />
+    <ColumnConstraints hgrow="SOMETIMES" minWidth="90.0" prefWidth="90.0" />
+    <ColumnConstraints hgrow="SOMETIMES" minWidth="100.0" prefWidth="100.0" />
+      <ColumnConstraints hgrow="SOMETIMES" minWidth="100.0" prefWidth="100.0" />
+  </columnConstraints>
+  <rowConstraints>
+      <RowConstraints minHeight="10.0" prefHeight="100.0" vgrow="SOMETIMES" />
+      <RowConstraints minHeight="90.0" prefHeight="90.0" vgrow="SOMETIMES" />
+      <RowConstraints minHeight="90.0" prefHeight="90.0" vgrow="SOMETIMES" />
+      <RowConstraints minHeight="90.0" prefHeight="90.0" vgrow="SOMETIMES" />
+      <RowConstraints minHeight="90.0" prefHeight="90.0" vgrow="SOMETIMES" />
+      <RowConstraints minHeight="90.0" prefHeight="90.0" vgrow="SOMETIMES" />
+      <RowConstraints minHeight="90.0" prefHeight="90.0" vgrow="SOMETIMES" />
+    <RowConstraints minHeight="90.0" prefHeight="90.0" vgrow="SOMETIMES" />
+    <RowConstraints minHeight="90.0" prefHeight="90.0" vgrow="SOMETIMES" />
+    <RowConstraints minHeight="90.0" prefHeight="90.0" vgrow="SOMETIMES" />
+      <RowConstraints minHeight="10.0" prefHeight="100.0" vgrow="SOMETIMES" />
+  </rowConstraints>
+   <children>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#a7e1f7" height="90.0" stroke="BLACK" strokeType="INSIDE" width="35.0" GridPane.halignment="RIGHT" GridPane.rowIndex="1" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#a7e1f7" height="90.0" layoutX="10.0" layoutY="110.0" stroke="BLACK" strokeType="INSIDE" width="35.0" GridPane.halignment="RIGHT" GridPane.rowIndex="2" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#a7e1f7" height="90.0" layoutX="10.0" layoutY="290.0" stroke="BLACK" strokeType="INSIDE" width="35.0" GridPane.halignment="RIGHT" GridPane.rowIndex="4" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#97533b" height="90.0" layoutX="10.0" layoutY="560.0" stroke="BLACK" strokeType="INSIDE" width="35.0" GridPane.halignment="RIGHT" GridPane.rowIndex="7" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#97533b" height="90.0" layoutX="10.0" layoutY="650.0" stroke="BLACK" strokeType="INSIDE" width="35.0" GridPane.halignment="RIGHT" GridPane.rowIndex="9" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#f3122b" height="90.0" layoutX="10.0" layoutY="110.0" stroke="BLACK" strokeType="INSIDE" width="35.0" GridPane.columnIndex="10" GridPane.rowIndex="1" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#f3122b" height="90.0" layoutX="920.0" layoutY="110.0" stroke="BLACK" strokeType="INSIDE" width="35.0" GridPane.columnIndex="10" GridPane.rowIndex="4" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#fef052" height="90.0" layoutX="10.0" layoutY="110.0" stroke="BLACK" strokeType="INSIDE" width="35.0" GridPane.columnIndex="10" GridPane.rowIndex="6" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#fef052" height="90.0" layoutX="10.0" layoutY="290.0" stroke="BLACK" strokeType="INSIDE" width="35.0" GridPane.columnIndex="10" GridPane.rowIndex="7" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#f3122b" height="90.0" layoutX="10.0" layoutY="110.0" stroke="BLACK" strokeType="INSIDE" width="35.0" GridPane.columnIndex="10" GridPane.rowIndex="3" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#fef052" height="90.0" layoutX="920.0" layoutY="740.0" stroke="BLACK" strokeType="INSIDE" width="35.0" GridPane.columnIndex="10" GridPane.rowIndex="9" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#0074b6" height="35.0" stroke="BLACK" strokeType="INSIDE" width="90.0" GridPane.columnIndex="1" GridPane.rowIndex="10" GridPane.valignment="TOP" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#0074b6" height="35.0" stroke="BLACK" strokeType="INSIDE" width="90.0" GridPane.columnIndex="3" GridPane.rowIndex="10" GridPane.valignment="TOP" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#00b265" height="35.0" stroke="BLACK" strokeType="INSIDE" width="90.0" GridPane.columnIndex="9" GridPane.rowIndex="10" GridPane.valignment="TOP" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#00b265" height="35.0" stroke="BLACK" strokeType="INSIDE" width="90.0" GridPane.columnIndex="8" GridPane.rowIndex="10" GridPane.valignment="TOP" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#00b265" height="35.0" stroke="BLACK" strokeType="INSIDE" width="90.0" GridPane.columnIndex="6" GridPane.rowIndex="10" GridPane.valignment="TOP" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#de3a92" height="35.0" stroke="BLACK" strokeType="INSIDE" width="90.0" GridPane.columnIndex="1" GridPane.valignment="BOTTOM" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#fb923b" height="35.0" stroke="BLACK" strokeType="INSIDE" width="90.0" GridPane.columnIndex="9" GridPane.valignment="BOTTOM" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#fb923b" height="35.0" stroke="BLACK" strokeType="INSIDE" width="90.0" GridPane.columnIndex="6" GridPane.valignment="BOTTOM" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#fb923b" height="35.0" stroke="BLACK" strokeType="INSIDE" width="90.0" GridPane.columnIndex="8" GridPane.valignment="BOTTOM" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#de3a92" height="35.0" stroke="BLACK" strokeType="INSIDE" width="90.0" GridPane.columnIndex="4" GridPane.valignment="BOTTOM" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#de3a92" height="35.0" stroke="BLACK" strokeType="INSIDE" width="90.0" GridPane.columnIndex="3" GridPane.valignment="BOTTOM" />
+      <Text fx:id="Jail" rotate="135.0" strokeType="OUTSIDE" strokeWidth="0.0" text="JAIL" GridPane.halignment="CENTER" GridPane.valignment="CENTER" />
+      <Text fx:id="Chance1" rotate="90.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CHANCE" textAlignment="CENTER" wrappingWidth="88.5146484375" GridPane.halignment="CENTER" GridPane.rowIndex="3" GridPane.valignment="CENTER" />
+      <Text fx:id="Connecticut" rotate="90.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Connecticut Avenue" textAlignment="CENTER" wrappingWidth="91.87451171875" GridPane.halignment="CENTER" GridPane.rowIndex="1" GridPane.valignment="CENTER" />
+      <Text fx:id="Vermont" rotate="90.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Vermont Avenue" textAlignment="CENTER" wrappingWidth="87.943359375" GridPane.halignment="CENTER" GridPane.rowIndex="2" GridPane.valignment="CENTER" />
+      <Text fx:id="Oriental" rotate="90.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Oriental Avenue" textAlignment="CENTER" wrappingWidth="87.86181640625" GridPane.halignment="CENTER" GridPane.rowIndex="4" GridPane.valignment="CENTER" />
+      <Text fx:id="Reading" rotate="90.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Reading Railroad" textAlignment="CENTER" wrappingWidth="92.38427734375" GridPane.halignment="CENTER" GridPane.rowIndex="5" GridPane.valignment="CENTER" />
+      <Text fx:id="IncomeTax" rotate="90.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Income Tax" textAlignment="CENTER" wrappingWidth="63.66845703125" GridPane.halignment="CENTER" GridPane.rowIndex="6" GridPane.valignment="CENTER" />
+      <Text fx:id="Baltic" rotate="90.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Baltic Avenue" textAlignment="CENTER" wrappingWidth="85.69384765625" GridPane.halignment="CENTER" GridPane.rowIndex="7" GridPane.valignment="CENTER" />
+      <Text fx:id="CC1" rotate="90.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Community Chest" textAlignment="CENTER" wrappingWidth="76.41455078125" GridPane.halignment="CENTER" GridPane.rowIndex="8" GridPane.valignment="CENTER" />
+      <Text fx:id="Mediterranean" rotate="90.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Mediterranean Avenue" textAlignment="CENTER" wrappingWidth="94.47412109375" GridPane.halignment="CENTER" GridPane.rowIndex="9" GridPane.valignment="CENTER" />
+      <Text fx:id="Boardwalk" strokeType="OUTSIDE" strokeWidth="0.0" text="Boardwalk" textAlignment="CENTER" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.rowIndex="10" GridPane.valignment="CENTER" />
+      <Text fx:id="LuxuryTax" strokeType="OUTSIDE" strokeWidth="0.0" text="Luxury Tax" textAlignment="CENTER" GridPane.columnIndex="2" GridPane.halignment="CENTER" GridPane.rowIndex="10" GridPane.valignment="CENTER" />
+      <Text fx:id="ParkPlace" strokeType="OUTSIDE" strokeWidth="0.0" text="Park Place" textAlignment="CENTER" GridPane.columnIndex="3" GridPane.halignment="CENTER" GridPane.rowIndex="10" GridPane.valignment="CENTER" />
+      <Text fx:id="Chance3" strokeType="OUTSIDE" strokeWidth="0.0" text="Chance" textAlignment="CENTER" GridPane.columnIndex="4" GridPane.halignment="CENTER" GridPane.rowIndex="10" GridPane.valignment="CENTER" />
+      <Text fx:id="ShortLine" strokeType="OUTSIDE" strokeWidth="0.0" text="Short Line" textAlignment="CENTER" GridPane.columnIndex="5" GridPane.halignment="CENTER" GridPane.rowIndex="10" GridPane.valignment="CENTER" />
+      <Text fx:id="PassGO" rotate="45.0" strokeType="OUTSIDE" strokeWidth="0.0" text="PASS GO" GridPane.halignment="CENTER" GridPane.rowIndex="10" GridPane.valignment="CENTER" />
+      <Text fx:id="PennsylvaniaAve" strokeType="OUTSIDE" strokeWidth="0.0" text="Pennsylvania Avenue" textAlignment="CENTER" wrappingWidth="87.67626953125" GridPane.columnIndex="6" GridPane.halignment="CENTER" GridPane.rowIndex="10" GridPane.valignment="CENTER" />
+      <Text fx:id="CC3" strokeType="OUTSIDE" strokeWidth="0.0" text="Community Chest" textAlignment="CENTER" wrappingWidth="81.41455078125" GridPane.columnIndex="7" GridPane.halignment="CENTER" GridPane.rowIndex="10" GridPane.valignment="CENTER" />
+      <Text fx:id="NorthCarolina" strokeType="OUTSIDE" strokeWidth="0.0" text="North Carolina Avenue" textAlignment="CENTER" wrappingWidth="91.2392578125" GridPane.columnIndex="8" GridPane.halignment="CENTER" GridPane.rowIndex="10" GridPane.valignment="CENTER" />
+      <Text fx:id="Pacific" strokeType="OUTSIDE" strokeWidth="0.0" text="Pacific Avenue" textAlignment="CENTER" GridPane.columnIndex="9" GridPane.halignment="CENTER" GridPane.rowIndex="10" GridPane.valignment="CENTER" />
+      <Text fx:id="TOJAIL" rotate="-45.0" strokeType="OUTSIDE" strokeWidth="0.0" text="GO TO JAIL" GridPane.columnIndex="10" GridPane.halignment="CENTER" GridPane.rowIndex="10" GridPane.valignment="CENTER" />
+      <Text fx:id="MarvinGardens" rotate="-90.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Marvin Gardens" textAlignment="CENTER" wrappingWidth="81.61767578125" GridPane.columnIndex="10" GridPane.halignment="CENTER" GridPane.rowIndex="9" GridPane.valignment="CENTER" />
+      <Text fx:id="WaterWorks" rotate="-90.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Water Works" textAlignment="CENTER" GridPane.columnIndex="10" GridPane.halignment="CENTER" GridPane.rowIndex="8" GridPane.valignment="CENTER" />
+      <Text fx:id="Ventnor" rotate="-90.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Ventnor Avenue" textAlignment="CENTER" wrappingWidth="84.21728515625" GridPane.columnIndex="10" GridPane.halignment="CENTER" GridPane.rowIndex="7" GridPane.valignment="CENTER" />
+      <Text rotate="-90.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Atlantic Avenue" textAlignment="CENTER" wrappingWidth="84.2177734375" GridPane.columnIndex="10" GridPane.halignment="CENTER" GridPane.rowIndex="6" GridPane.valignment="CENTER" />
+      <Text fx:id="BORR" rotate="-90.0" strokeType="OUTSIDE" strokeWidth="0.0" text="B&amp;O Railroad" textAlignment="CENTER" GridPane.columnIndex="10" GridPane.halignment="CENTER" GridPane.rowIndex="5" GridPane.valignment="CENTER" />
+      <Text fx:id="Illinois" rotate="-90.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Illinois Avenue" textAlignment="CENTER" wrappingWidth="81.00390625" GridPane.columnIndex="10" GridPane.halignment="CENTER" GridPane.rowIndex="4" GridPane.valignment="CENTER" />
+      <Text fx:id="Indiana" rotate="-90.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Indiana Avenue" textAlignment="CENTER" wrappingWidth="86.68505859375" GridPane.columnIndex="10" GridPane.halignment="CENTER" GridPane.rowIndex="3" GridPane.valignment="CENTER" />
+      <Text fx:id="Chnce2" rotate="-90.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Chance" textAlignment="CENTER" GridPane.columnIndex="10" GridPane.halignment="CENTER" GridPane.rowIndex="2" GridPane.valignment="CENTER" />
+      <Text fx:id="Kentucky" rotate="-90.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Kentucky Avenue" textAlignment="CENTER" wrappingWidth="94.78662109375" GridPane.columnIndex="10" GridPane.halignment="CENTER" GridPane.rowIndex="1" GridPane.valignment="CENTER" />
+      <Text fx:id="FreeParking" rotate="225.0" strokeType="OUTSIDE" strokeWidth="0.0" text="FREE PARKING" GridPane.columnIndex="10" />
+      <Text fx:id="NewYork" rotate="180.0" strokeType="OUTSIDE" strokeWidth="0.0" text="New York Avenue" textAlignment="CENTER" wrappingWidth="83.53857421875" GridPane.columnIndex="9" GridPane.halignment="CENTER" GridPane.valignment="CENTER" />
+      <Text fx:id="Tennessee" rotate="180.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Tennessee Avenue" textAlignment="CENTER" wrappingWidth="87.23193359375" GridPane.columnIndex="8" GridPane.halignment="CENTER" GridPane.valignment="CENTER" />
+      <Text fx:id="CC2" rotate="180.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Community Chest" textAlignment="CENTER" wrappingWidth="81.41455078125" GridPane.columnIndex="7" GridPane.halignment="CENTER" GridPane.valignment="CENTER" />
+      <Text fx:id="StJames" rotate="180.0" strokeType="OUTSIDE" strokeWidth="0.0" text="St. James Place" textAlignment="CENTER" wrappingWidth="81.322265625" GridPane.columnIndex="6" GridPane.halignment="CENTER" GridPane.valignment="CENTER" />
+      <Text fx:id="Pennsylvania" rotate="180.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Pennsylvania Railroad" textAlignment="CENTER" wrappingWidth="84.7705078125" GridPane.columnIndex="5" GridPane.halignment="CENTER" GridPane.valignment="CENTER" />
+      <Text fx:id="Virginia" rotate="180.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Virginia Avenue" textAlignment="CENTER" wrappingWidth="86.494140625" GridPane.columnIndex="4" GridPane.halignment="CENTER" GridPane.valignment="CENTER" />
+      <Text fx:id="States" rotate="180.0" strokeType="OUTSIDE" strokeWidth="0.0" text="States Avenue" textAlignment="CENTER" wrappingWidth="80.638671875" GridPane.columnIndex="3" GridPane.halignment="CENTER" GridPane.valignment="CENTER" />
+      <Text fx:id="ElectricCompany" rotate="180.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Electric Company" textAlignment="CENTER" wrappingWidth="79.57373046875" GridPane.columnIndex="2" GridPane.halignment="CENTER" GridPane.valignment="CENTER" />
+      <Text fx:id="StCharlesPlace" rotate="180.0" strokeType="OUTSIDE" strokeWidth="0.0" text="St. Charles Place" textAlignment="CENTER" wrappingWidth="84.2666015625" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.valignment="CENTER" />
+      <Line endX="1010.0" GridPane.halignment="LEFT" GridPane.valignment="BOTTOM" />
+      <Line endX="100.0" GridPane.rowIndex="1" GridPane.valignment="BOTTOM" />
+      <Line endX="100.0" GridPane.rowIndex="2" GridPane.valignment="BOTTOM" />
+      <Line endX="100.0" GridPane.rowIndex="3" GridPane.valignment="BOTTOM" />
+      <Line endX="100.0" GridPane.rowIndex="4" GridPane.valignment="BOTTOM" />
+      <Line endX="100.0" GridPane.rowIndex="5" GridPane.valignment="BOTTOM" />
+      <Line endX="100.0" GridPane.rowIndex="6" GridPane.valignment="BOTTOM" />
+      <Line endX="100.0" startX="-0.0" GridPane.rowIndex="7" GridPane.valignment="BOTTOM" />
+      <Line endX="100.0" GridPane.rowIndex="8" GridPane.valignment="BOTTOM" />
+      <Line endX="1010.0" GridPane.rowIndex="9" GridPane.valignment="BOTTOM" />
+      <Line endX="100.0" startX="-910.0" GridPane.rowIndex="10" GridPane.valignment="BOTTOM" />
+      <Line endY="100.0" GridPane.rowIndex="10" />
+      <Line startY="100.0" GridPane.halignment="RIGHT" GridPane.rowIndex="10" />
+      <Line endY="100.0" GridPane.columnIndex="1" GridPane.halignment="RIGHT" GridPane.rowIndex="10" />
+      <Line endY="100.0" GridPane.columnIndex="2" GridPane.halignment="RIGHT" GridPane.rowIndex="10" />
+      <Line endY="100.0" GridPane.columnIndex="3" GridPane.halignment="RIGHT" GridPane.rowIndex="10" />
+      <Line endY="100.0" GridPane.columnIndex="4" GridPane.halignment="RIGHT" GridPane.rowIndex="10" />
+      <Line endY="100.0" GridPane.columnIndex="5" GridPane.halignment="RIGHT" GridPane.rowIndex="10" />
+      <Line endY="100.0" GridPane.columnIndex="6" GridPane.halignment="RIGHT" GridPane.rowIndex="10" />
+      <Line endY="100.0" GridPane.columnIndex="7" GridPane.halignment="RIGHT" GridPane.rowIndex="10" />
+      <Line endY="1010.0" GridPane.halignment="RIGHT" GridPane.valignment="TOP" />
+      <Line endY="1010.0" GridPane.columnIndex="10" GridPane.halignment="LEFT" GridPane.valignment="TOP" />
+      <Line endY="100.0" GridPane.columnIndex="8" GridPane.halignment="RIGHT" GridPane.rowIndex="10" />
+      <Line endX="100.0" GridPane.columnIndex="10" GridPane.rowIndex="9" GridPane.valignment="TOP" />
+      <Line endX="100.0" GridPane.columnIndex="10" GridPane.rowIndex="8" GridPane.valignment="TOP" />
+      <Line endX="100.0" GridPane.columnIndex="10" GridPane.rowIndex="7" GridPane.valignment="TOP" />
+      <Line endX="100.0" GridPane.columnIndex="10" GridPane.rowIndex="6" GridPane.valignment="TOP" />
+      <Line endX="100.0" GridPane.columnIndex="10" GridPane.rowIndex="5" GridPane.valignment="TOP" />
+      <Line endX="100.0" GridPane.columnIndex="10" GridPane.rowIndex="4" GridPane.valignment="TOP" />
+      <Line endX="100.0" GridPane.columnIndex="10" GridPane.rowIndex="3" GridPane.valignment="TOP" />
+      <Line endX="100.0" GridPane.columnIndex="10" GridPane.rowIndex="2" GridPane.valignment="TOP" />
+      <Line endY="100.0" GridPane.columnIndex="9" GridPane.halignment="LEFT" />
+      <Line endX="-0.0" endY="100.0" GridPane.columnIndex="8" GridPane.halignment="LEFT" />
+      <Line endY="100.0" GridPane.columnIndex="7" />
+      <Line endY="100.0" GridPane.columnIndex="6" GridPane.halignment="LEFT" />
+      <Line endY="100.0" GridPane.columnIndex="5" GridPane.halignment="LEFT" />
+      <Line endY="100.0" GridPane.columnIndex="4" />
+      <Line endY="100.0" GridPane.columnIndex="3" GridPane.halignment="LEFT" />
+      <Line endY="100.0" GridPane.columnIndex="2" GridPane.halignment="LEFT" />
+      <Text strokeType="OUTSIDE" strokeWidth="0.0" text="MONOPOLY" textAlignment="CENTER" wrappingWidth="450.5520935058594" GridPane.columnIndex="3" GridPane.rowIndex="2" GridPane.valignment="CENTER">
+         <font>
+            <Font size="77.0" />
+         </font>
+      </Text>
+      <Button mnemonicParsing="false" text="Start Game" textAlignment="CENTER" GridPane.columnIndex="5" GridPane.halignment="CENTER" GridPane.rowIndex="3" GridPane.valignment="CENTER" />
+      <Button mnemonicParsing="false" text="Roll Dice" textAlignment="CENTER" GridPane.columnIndex="4" GridPane.halignment="CENTER" GridPane.rowIndex="4" GridPane.valignment="CENTER" />
+      <Button mnemonicParsing="false" text="Buy House" textAlignment="CENTER" GridPane.columnIndex="5" GridPane.halignment="CENTER" GridPane.rowIndex="4" GridPane.valignment="CENTER" />
+      <Button mnemonicParsing="false" text="Buy Hotel" textAlignment="CENTER" GridPane.columnIndex="6" GridPane.halignment="CENTER" GridPane.rowIndex="4" GridPane.valignment="CENTER" />
+      <Button maxWidth="150.0" minWidth="140.0" mnemonicParsing="false" prefHeight="27.0" prefWidth="150.0" text="Manage Properties" GridPane.columnIndex="5" GridPane.halignment="CENTER" GridPane.rowIndex="5" GridPane.valignment="CENTER" />
+   </children>
+</GridPane>

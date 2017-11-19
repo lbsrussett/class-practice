@@ -1,0 +1,20 @@
+ESOF 322 PA 1 Overview
+
+Team 1: Ethan Malo, Marie Morin, Carie Pointer, Laura Sullivan-Russett
+
+Design Choices and Challenges
+
+We wrote the equals() and toString() methods first, because they were required for some of the other methods to be properly implemented.  We added a rounding function to the Vector3D class because some of the tests were getting negative results as a result of floating decimals in the add and subtract methods.  
+
+Member Contribution:
+1. Ethan
+I created the dot(), magnitude(), and negate() functions in Vector3D, as well as the test functions for dot and magnitude.  I added additional test cases to testScale(), and testAdd() as well as comments detailing the purpose of the tests. I created and implemented the round function within Vector3D to fix rounding issues we were encountering with the add and subtract method tests.  Added additional tests to testNegate(), testMagnitude(), and testDot() as well as comments to each. I spend approximately 120 minutes on this project, not inluding the time spent trying to get JUnit(approx. 6 hours) and Github(approx. 2 hours) working. 
+
+2. Marie
+I created the scale() and testScale() methods in the Vector3D and Vector3DTest classes, respectively. I updated some syntax errors in the testMagnitude() method in the Vector3DTest class, where getMagnitude() was called, rather than magnitude() as named in the Vector3D class. You may see that I have a high number of commits— I accidentally added a .metadata file from eclipse as I worked to figure out the program, amidst network connectivity issues. We worked to resolve these changes the best we could with the time we were given. Marie spent approximately 60 minutes on this project, minus the amount of time taken from dealing with network connectivity errors.
+
+3. Carie
+I created the add() and subtact() methods for the unit tests and the Vector3D methods. I updated the methods in Vector3D.java to return a new vector when appropriate (rather than changing the value of an existing vector). I also made contributions to creating JUnit tests for the methods in the Vector3DTest.java file and updated the assertEquals call in testDot() and testMagnitude(). Carie forgot to update her minutes spent on the project but did work comparable to the majority of the group.
+
+
+4. Laura: Laura created the initial files and the file structure in the git repository. She wrote the setUp method for Vector3DTest and the constructor for Vector3D. She wrote the testing methods testToString() and testEquals() in Vector3DTest and the toString() and equals() methods in Vector3D.  She also wrote the main method in the Vector3DTest class to run the JUnit tests and print results. She spent approximately 120 mins in total. 

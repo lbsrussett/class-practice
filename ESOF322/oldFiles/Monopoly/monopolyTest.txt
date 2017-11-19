@@ -1,0 +1,32 @@
+Test Cases:
+1. Dice value 
+2. Number of players 
+3. Starting money value 
+4. Property owner 
+5. Property mortaged? 
+6. Monopoly 
+7. Roll doubles 
+8. Roll to get out of jail
+9. Get sent to jail 
+10. Pay and receive property 
+11. Collect rent amount
+12. Pay rent amount
+13. Pay tax
+14. Pass Go 
+15. Buy house
+16. Pay rent on property with house
+17. Auction property
+18. Check winner
+19. Mortgage value
+20. End turn
+21. Check player worth 
+22. Sell assets and collect money
+23. Move number of spaces 
+24. Print properties
+25. Check player name 
+26. Game timer
+27. Property owned
+28. Buy property
+
+
+

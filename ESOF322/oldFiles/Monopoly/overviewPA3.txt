@@ -1,0 +1,17 @@
+ESOF 322 PA 3 Overview
+
+Team 1: Ethan Malo, Marie Morin, Carie Pointer, Laura Sullivan-Russett
+
+Member Contribution:
+1. Ethan
+
+
+2. Marie
+
+
+3. Carie
+
+
+
+4. Laura
+I created the three sequence diagrams and updated the UML diagram accordingly.  I created the list of test cases.  I wrote many of the test cases.
